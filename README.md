@@ -2,7 +2,7 @@
 
 A react & typescript starter project.
 
-## Frameworks & Tookchain
+## Frameworks & Toolchain
 
  - Typescript
  - Foundation 6 & SCSS
